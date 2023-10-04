@@ -1,0 +1,1 @@
+# Instrumentation_Amplifier_for_thermocouple
